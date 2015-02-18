@@ -1,5 +1,5 @@
-/Users/chihoub/workspace/spark-hands-on/src/main/java/com/spark/myExamples/SparkPi.java
-/Users/chihoub/workspace/spark-hands-on/src/main/java/com/spark/myExamples/TwitterStreaming.java
-/Users/chihoub/workspace/spark-hands-on/src/main/java/com/spark/myExamples/TweetsProcessing.java
-/Users/chihoub/workspace/spark-hands-on/src/main/java/com/spark/myExamples/TwitterStreamingCollect.java
-/Users/chihoub/workspace/spark-hands-on/src/main/java/com/spark/myExamples/WordCount.java
+/Users/chihoub/ForGit/spark-hands-on/src/main/java/com/spark/myExamples/TwitterStreaming.java
+/Users/chihoub/ForGit/spark-hands-on/src/main/java/com/spark/myExamples/TwitterStreamingCollect.java
+/Users/chihoub/ForGit/spark-hands-on/src/main/java/com/spark/myExamples/SparkPi.java
+/Users/chihoub/ForGit/spark-hands-on/src/main/java/com/spark/myExamples/TweetsProcessing.java
+/Users/chihoub/ForGit/spark-hands-on/src/main/java/com/spark/myExamples/WordCount.java
