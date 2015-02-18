@@ -1,0 +1,7 @@
+com/spark/myExamples/SparkPi.class
+com/spark/myExamples/SparkPi$1.class
+com/spark/myExamples/SparkPi$2.class
+com/spark/myExamples/TweetsProcessing.class
+com/spark/myExamples/WordCount.class
+com/spark/myExamples/TwitterStreaming.class
+com/spark/myExamples/TwitterStreamingCollect.class
