@@ -28,7 +28,7 @@ public class WordCount {
     	}
 		
 		SparkConf sparkConf = new SparkConf()
-        .setAppName("Tweets analysis");
+        .setAppName("Word Count");
         JavaSparkContext sc = new JavaSparkContext(sparkConf);
         
         JavaRDD<String> file  = sc.textFile(inputFile);

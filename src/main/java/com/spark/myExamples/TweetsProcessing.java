@@ -52,7 +52,7 @@ public class TweetsProcessing implements Serializable {
         JavaSQLContext sqlContext = new JavaSQLContext(sc);
         
         //Pretty print the tweets
-        JavaRDD<String> tweets = sc.textFile("/Users/chihoub/workspace/tweetCollection/tweets_1424084445000/", 6);
+        JavaRDD<String> tweets = sc.textFile("inputDir", 6);
         tweets.map(s -> gson.toJson(jsonParser.parse(s)))
         .collect()
         .forEach(System.out::println);
